@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Arknights Shu's Ricefield",
+  "name": "AK Ricefield",
   "type": "dark",
   "colors": {
     "activityBar.background": "#11121a",
