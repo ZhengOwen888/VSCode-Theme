@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Arknights Dual Dragon",
+  "name": "AK-Fiery-Plain-Theme",
   "type": "dark",
   "colors": {
     "activityBar.background": "#0a080f",
