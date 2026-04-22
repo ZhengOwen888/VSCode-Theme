@@ -1,0 +1,21 @@
+{
+  "name": "ak-birthday-theme",
+  "displayName": "AK Birthday Theme",
+  "description": "AK Birthday Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AK Birthday Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AK-Birthday-Theme.json"
+      }
+    ]
+  }
+}

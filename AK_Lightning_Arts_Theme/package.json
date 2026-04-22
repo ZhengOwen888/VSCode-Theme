@@ -1,0 +1,21 @@
+{
+  "name": "ak-lightning-arts-theme",
+  "displayName": "AK Lightning Arts Theme",
+  "description": "AK Lightning Arts Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AK Lightning Arts Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AK-Lightning-Arts-Theme.json"
+      }
+    ]
+  }
+}

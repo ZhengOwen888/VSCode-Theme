@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "AK-Ricefield-Theme",
+  "name": "AK-Rice-Field-Theme",
   "type": "dark",
   "colors": {
     "activityBar.background": "#11121a",

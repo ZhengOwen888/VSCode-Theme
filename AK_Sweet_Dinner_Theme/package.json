@@ -1,0 +1,21 @@
+{
+  "name": "ak-sweet-dinner-theme",
+  "displayName": "AK Sweet Dinner Theme",
+  "description": "AK Sweet Dinner Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AK Sweet Dinner Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AK-Sweet-Dinner-Theme.json"
+      }
+    ]
+  }
+}
