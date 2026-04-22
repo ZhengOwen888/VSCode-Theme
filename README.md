@@ -1,4 +1,4 @@
-# VS-Code Theme
+# VSCode-Theme
 
 A collection of cool VS Code themes inspired by **Arknights**. The themes are created with the help of AI and refined over iterations.
 
