@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "AK-Lightning-Arts-Theme",
+  "name": "Arknights Lightning Arts Theme",
   "type": "dark",
   "colors": {
     "activityBar.background": "#0c0e18",
@@ -232,6 +232,29 @@
       ],
       "settings": {
         "foreground": "#8878e8"
+      }
+    },
+    {
+      "name": "Import/Include - Package or Header Name",
+      "scope": [
+        "storage.modifier.import.java",
+        "storage.modifier.package.java",
+        "variable.language.wildcard.java",
+        "meta.package.java entity.name.type",
+        "meta.import.java entity.name.type",
+        "meta.package.java storage.type",
+        "meta.import.java storage.type",
+        "meta.preprocessor.include",
+        "string.quoted.other.lt-gt.include",
+        "meta.preprocessor string.quoted",
+        "meta.statement.import.python",
+        "entity.name.type.module",
+        "support.module",
+        "meta.import entity.name.type",
+        "meta.import entity.name.namespace"
+      ],
+      "settings": {
+        "foreground": "#78eeff"
       }
     },
     {
