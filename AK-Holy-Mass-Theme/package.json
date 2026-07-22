@@ -1,0 +1,21 @@
+{
+  "name": "AK Holy Mass Theme",
+  "displayName": "AK Holy Mass Theme",
+  "description": "AK Holy Mass Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AK Holy Mass Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AK_Holy_Mass_Theme.json"
+      }
+    ]
+  }
+}

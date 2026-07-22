@@ -1,0 +1,21 @@
+{
+  "name": "AK Crimson Broadcast Theme",
+  "displayName": "AK Crimson Broadcast Theme",
+  "description": "AK Crimson Broadcast Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AK Crimson Broadcast Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AK_Crimson_Broadcast_Theme.json"
+      }
+    ]
+  }
+}

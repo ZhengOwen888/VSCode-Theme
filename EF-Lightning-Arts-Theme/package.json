@@ -1,0 +1,21 @@
+{
+  "name": "EF Lightning Arts Theme",
+  "displayName": "EF Lightning Arts Theme",
+  "description": "EF Lightning Arts Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "EF Lightning Arts Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EF_Lightning_Arts_Theme.json"
+      }
+    ]
+  }
+}

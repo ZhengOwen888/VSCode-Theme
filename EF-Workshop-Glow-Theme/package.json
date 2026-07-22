@@ -1,0 +1,21 @@
+{
+  "name": "EF Workshop Glow Theme",
+  "displayName": "EF Workshop Glow Theme",
+  "description": "EF Workshop Glow Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "EF Workshop Glow Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EF_Workshop_Glow_Theme.json"
+      }
+    ]
+  }
+}

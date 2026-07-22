@@ -1,0 +1,21 @@
+{
+  "name": "AK Misty Jade Theme",
+  "displayName": "AK Misty Jade Theme",
+  "description": "AK Misty Jade Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AK Misty Jade Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AK-Misty-Jade-Theme.json"
+      }
+    ]
+  }
+}
