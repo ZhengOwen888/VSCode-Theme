@@ -1,0 +1,60 @@
+{
+  "name": "ak-theme-pack",
+  "displayName": "AK Theme Pack",
+  "description": "A collection of custom VS Code themes.",
+  "version": "1.0.0",
+  "publisher": "ak",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AK Birthday Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ak-birthday-theme.json"
+      },
+      {
+        "label": "AK Crimson Broadcast Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ak-crimson-broadcast-theme.json"
+      },
+      {
+        "label": "AK Fiery Plain Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ak-fiery-plain-theme.json"
+      },
+      {
+        "label": "AK Holy Mass Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ak-holy-mass-theme.json"
+      },
+      {
+        "label": "AK Rice Field Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ak-rice-field-theme.json"
+      },
+      {
+        "label": "AK Sweet Dinner Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ak-sweet-dinner-theme.json"
+      },
+      {
+        "label": "EF Lightning Arts Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ef-lightning-arts-theme.json"
+      },
+      {
+        "label": "EF Misty Jade Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ef-misty-jade-theme.json"
+      },
+      {
+        "label": "EF Workshop Glow Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ef-workshop-glow-theme.json"
+      }
+    ]
+  }
+}

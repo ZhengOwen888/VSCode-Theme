@@ -1,1 +1,7 @@
 theme-preview.cpp
+
+# VSCode
+__pycache__
+
+# Dependencies
+.venv
