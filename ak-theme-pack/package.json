@@ -54,6 +54,11 @@
         "label": "EF Workshop Glow Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/ef-workshop-glow-theme.json"
+      },
+      {
+        "label": "EF Si Flowing Ink Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ef-si-flowing-ink-theme.json"
       }
     ]
   }
