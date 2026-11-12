@@ -59,6 +59,11 @@
         "label": "EF Si Flowing Ink Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/ef-si-flowing-ink-theme.json"
+      },
+      {
+        "label": "EF Arcane Fractured Light Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ef-arcane-fractured-light-theme.json"
       }
     ]
   }
